@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Optimasi Gambar Tanpa Ribet
-    subtitle: Optional hero section subtitle
+    subtitle: CDN Gambar termurah se-Indonesia
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
