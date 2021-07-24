@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Optimasi Gambar Tanpa Ribet
     subtitle: CDN Gambar khusus Indonesia
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Beri kenyamanan untuk pengunjung blog personal atau website perusahaanmu
+      dengan akses gambar yang cepat dan dioptimasi.
     actions:
       - label: Try Free
         url: /pricing
